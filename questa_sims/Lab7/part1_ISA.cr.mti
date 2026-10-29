@@ -1,0 +1,50 @@
+E:/Digital_Design/lab-7-PETERFEE/src/Part1/controller.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-7-PETERFEE/src/Part1/controller.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} E:/Digital_Design/lab-7-PETERFEE/src/Part1/memory.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-7-PETERFEE/src/Part1/memory.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} E:/Digital_Design/lab-7-PETERFEE/src/Part1/alu.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-7-PETERFEE/src/Part1/alu.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} E:/Digital_Design/lab-7-PETERFEE/src/Part1/top_level.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-7-PETERFEE/src/Part1/top_level.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module top_level
+
+Top level modules:
+	top_level
+
+} {} {}} E:/Digital_Design/lab-7-PETERFEE/src/Part1/gcd.sv {1 {vlog -work work -vopt -sv -stats=none {E:\Digital_Design\lab-7-PETERFEE\src\Part1\gcd.sv}
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module gcd
+
+Top level modules:
+	gcd
+
+} {} {}} E:/Digital_Design/lab-7-PETERFEE/src/Part1/datapath.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-7-PETERFEE/src/Part1/datapath.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} E:/Digital_Design/lab-7-PETERFEE/src/Part2/tb_part2.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-7-PETERFEE/src/Part2/tb_part2.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module tb_part2
+
+Top level modules:
+	tb_part2
+
+} {} {}}

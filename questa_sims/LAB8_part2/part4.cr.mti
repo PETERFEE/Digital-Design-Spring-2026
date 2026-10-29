@@ -1,0 +1,22 @@
+E:/Digital_Design/lab-8-PETERFEE/src/part4/tb_fifo.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part4/tb_fifo.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module tb_fifo
+
+Top level modules:
+	tb_fifo
+
+} {} {}} E:/Digital_Design/lab-8-PETERFEE/src/part4/fifo1.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part4/fifo1.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module fifo1
+
+Top level modules:
+	fifo1
+
+} {} {}} E:/Digital_Design/lab-8-PETERFEE/src/part4/fifo2.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part4/fifo2.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module fifo2
+
+Top level modules:
+	fifo2
+
+} {} {}}

@@ -1,0 +1,48 @@
+# Current time Thu Mar  5 20:41:39 2026
+# Program = vish
+# Id = "2023.3"
+# Version = "2023.07"
+# Date = "Jul 17 2023"
+# Platform = win64
+
+Exception c0000005 has occurred at address 519d3635. Traceback:
+# 0    0x519d3635: 'Tk_UpdatePointer + 0x7ad5'
+# 1    0x519d5160: 'Tk_GetSelection + 0x160'
+# 2    0x51957969: 'TkClipInit + 0xac9'
+# 3    0x51ae8bfc: 'TclNRRunCallbacks + 0x5c'
+# 4    0x7ff97772f384: 'Itcl_EvalMemberCode + 0x384'
+# 5    0x7ff97773035d: 'Itcl_ExecMethod + 0x20d'
+# 6    0x7ff9777371b5: 'Itcl_EvalArgs + 0x1a5'
+# 7    0x7ff977732baa: 'Itcl_HandleInstance + 0x29a'
+# 8    0x51ae8bfc: 'TclNRRunCallbacks + 0x5c'
+# 9    0x7ff97772f384: 'Itcl_EvalMemberCode + 0x384'
+# 10   0x7ff97773035d: 'Itcl_ExecMethod + 0x20d'
+# 11   0x7ff9777371b5: 'Itcl_EvalArgs + 0x1a5'
+# 12   0x7ff977732baa: 'Itcl_HandleInstance + 0x29a'
+# 13   0x51ae8bfc: 'TclNRRunCallbacks + 0x5c'
+# 14   0x51aea501: 'Tcl_EvalEx + 0xb01'
+# 15   0x51ae9a28: 'Tcl_EvalEx + 0x28'
+# 16   0x51924aba: 'Tk_BindEvent + 0x91a'
+# 17   0x5195c4d1: 'TkBindEventProc + 0x291'
+# 18   0x5196cd84: 'Tk_HandleEvent + 0x2f4'
+# 19   0x51921a7e: 'TkStringToKeysym + 0x2bde'
+# 20   0x51922948: 'TkStringToKeysym + 0x3aa8'
+# 21   0x51ae8bfc: 'TclNRRunCallbacks + 0x5c'
+# 22   0x51aea501: 'Tcl_EvalEx + 0xb01'
+# 23   0x51ae9a28: 'Tcl_EvalEx + 0x28'
+# 24   0x51924aba: 'Tk_BindEvent + 0x91a'
+# 25   0x5195c4d1: 'TkBindEventProc + 0x291'
+# 26   0x5196cd84: 'Tk_HandleEvent + 0x2f4'
+# 27   0x5196ba4a: 'TkDeleteThreadExitHandler + 0x31a'
+# 28   0x51ba098c: 'Tcl_ServiceEvent + 0xec'
+# 29   0x51ba0e04: 'Tcl_DoOneEvent + 0x184'
+# 30   0x5196b655: 'Tk_MainLoop + 0x25'
+# 31   0x519ad972: 'Tk_MainEx + 0x932'
+# 32   0x1401c4c62: 'Mtirpc_Init + 0x248d2'
+# 33   0x1401c7e61: 'Mtirpc_Init + 0x27ad1'
+# 34   0x1407efc58: 'Tclsqlite3_Init + 0x1dac8'
+# 35   0x7ff98f52259d: 'BaseThreadInitThunk + 0x1d'
+# 36   0x7ff990c4af78: 'RtlUserThreadStart + 0x28'
+StackWalk failed 0
+# End of Stack Trace
+

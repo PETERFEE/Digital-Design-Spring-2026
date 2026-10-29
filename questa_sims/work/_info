@@ -1,0 +1,575 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+Z2 !s12c _opt1
+R1
+Z3 !s12c _opt2
+Z4 !s99 mlopt
+R0
+R1
+R3
+R4
+!s11f MIXED_VERSIONS
+R2
+R1
+R2
+R1
+R0
+R1
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/
+T_opt
+!s110 1772465090
+VajbTW=ka7^8ZI4^mC>Q8A3
+Z5 04 6 2 work vga_tb tb 1
+=1-00d8618a9905-69a5abc1-12e-8248
+R1
+Z6 !s12b OEM100
+!s124 OEM10U9 
+Z7 o-quiet -auto_acc_if_foreign -work work +acc
+Z8 tCvgOpt 0
+n@_opt
+Z9 OL;O;2023.3;77
+dE:/
+T_opt1
+!s110 1772235185
+V^9nd2mVa?m6of?1DCA=@j0
+R5
+=1-00d8618a9905-69a229b1-1b7-86f0
+R1
+R6
+!s124 OEM10U3 
+R7
+R8
+n@_opt1
+R9
+dE:/
+T_opt2
+!s110 1772158791
+V1W_TWVF?LD@dP5HWL>j=72
+04 11 4 work lab4quiz_tb fast 0
+=1-00d8618a9905-69a0ff46-29e-4168
+R4
+R6
+!s124 OEM10U2 
+R7
+R8
+n@_opt2
+R9
+dE:/
+Eclk_div
+Z10 w1771815036
+Z11 DPx4 ieee 11 numeric_std 0 22 F8@]:i<mFK7<TjIzKcTGi0
+Z12 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
+Z13 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
+!i122 272
+Z14 dE:/Digital_Design/questa_sims
+Z15 8E:/Digital_Design/lab-5-PETERFEE_back_up/src/part1/clk_div.vhd
+Z16 FE:/Digital_Design/lab-5-PETERFEE_back_up/src/part1/clk_div.vhd
+l0
+Z17 L10 1
+VeW6;582bYH:5RDmhBnETh0
+!s100 RQ8;^m7T16kQ0XdmYFL_d1
+Z18 OL;C;2023.3;77
+32
+Z19 !s110 1772504905
+!i10b 1
+Z20 !s108 1772504904.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Digital_Design/lab-5-PETERFEE_back_up/src/part1/clk_div.vhd|
+Z22 !s107 E:/Digital_Design/lab-5-PETERFEE_back_up/src/part1/clk_div.vhd|
+!i113 0
+Z23 o-work work -2002 -explicit
+Z24 tExplicit 1 CvgOpt 0
+Abhv
+R11
+R12
+R13
+DEx4 work 7 clk_div 0 22 eW6;582bYH:5RDmhBnETh0
+!i122 272
+l24
+L18 24
+VjP@HJHZmLDg^lQ_f8Fok33
+!s100 zk6Izfb:cgmhjEh3WAdCP0
+R18
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 0
+R23
+R24
+Eclk_div_tb
+Z25 w1771815108
+R11
+R12
+R13
+!i122 5
+Z26 dE:/Digital Design/questa_sims
+Z27 8E:\Digital Design\lab-5-PETERFEE\src\part1\clk_div_tb.vhd
+Z28 FE:\Digital Design\lab-5-PETERFEE\src\part1\clk_div_tb.vhd
+l0
+R17
+VVH;c>3jdEAzoX>lUed`F62
+!s100 ^<<;F0g]gRH^0WAH=1BZ[3
+R18
+32
+Z29 !s110 1771815118
+!i10b 1
+Z30 !s108 1771815118.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:\Digital Design\lab-5-PETERFEE\src\part1\clk_div_tb.vhd|
+Z32 !s107 E:\Digital Design\lab-5-PETERFEE\src\part1\clk_div_tb.vhd|
+!i113 0
+R23
+R24
+Atb
+R11
+R12
+R13
+DEx4 work 10 clk_div_tb 0 22 VH;c>3jdEAzoX>lUed`F62
+!i122 5
+l28
+L13 44
+VbZG;SUke7Ye_OQNm^]3WP2
+!s100 hYELEMUgoOaTPYzQ5OY9Y1
+R18
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 0
+R23
+R24
+Ecol_addr_gen
+Z33 w1772504274
+R11
+R12
+R13
+!i122 274
+R14
+Z34 8E:/Digital_Design/lab-5-PETERFEE/src/part3/col_addr_gen.vhd
+Z35 FE:/Digital_Design/lab-5-PETERFEE/src/part3/col_addr_gen.vhd
+l0
+R17
+V:]5ECn>BVHROOPnnWcDU90
+!s100 R<OJaH::^>nH0nVam>Yac0
+R18
+32
+R19
+!i10b 1
+Z36 !s108 1772504905.000000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Digital_Design/lab-5-PETERFEE/src/part3/col_addr_gen.vhd|
+Z38 !s107 E:/Digital_Design/lab-5-PETERFEE/src/part3/col_addr_gen.vhd|
+!i113 0
+R23
+R24
+Abhv
+R11
+R12
+R13
+Z39 DEx4 work 12 col_addr_gen 0 22 :]5ECn>BVHROOPnnWcDU90
+!i122 274
+l23
+L22 31
+V4?2ioW2J9S_SXHC08=F1R0
+!s100 jk^hgkd;ncN6V:2oZ[9el3
+R18
+32
+R19
+!i10b 1
+R36
+R37
+R38
+!i113 0
+R23
+R24
+Elab4quiz
+Z40 w1772158711
+R11
+R12
+R13
+!i122 37
+R14
+Z41 8C:/Users/fengh/Downloads/lab4 (1)/lab4quiz.vhd
+Z42 FC:/Users/fengh/Downloads/lab4 (1)/lab4quiz.vhd
+l0
+L5 1
+VhnVD0X=]NG6QNDE8QLgJ]2
+!s100 iY7RaZFiiEW;9EjG>C24I3
+R18
+32
+Z43 !s110 1772158773
+!i10b 1
+Z44 !s108 1772158773.000000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/fengh/Downloads/lab4 (1)/lab4quiz.vhd|
+Z46 !s107 C:/Users/fengh/Downloads/lab4 (1)/lab4quiz.vhd|
+!i113 0
+R23
+R24
+Abehavior
+R11
+R12
+R13
+DEx4 work 8 lab4quiz 0 22 hnVD0X=]NG6QNDE8QLgJ]2
+!i122 37
+l27
+L16 45
+VaIB?>8;IZ9mJBCN1R^?lL0
+!s100 ;QhG4EVBBl@ooYz7cn@Y;3
+R18
+32
+R43
+!i10b 1
+R44
+R45
+R46
+!i113 0
+R23
+R24
+vlab4quiz_tb
+2C:/Users/fengh/Downloads/lab4 (1)/lab4quiz_tb.sv
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R43
+!i10b 1
+!s100 e@kg6g3K64HI>6?[>C?Q41
+IV?2`TcLL^eA=KMUPQj_Y^1
+S1
+R14
+w1772148153
+8C:/Users/fengh/Downloads/lab4 (1)/lab4quiz_tb.sv
+FC:/Users/fengh/Downloads/lab4 (1)/lab4quiz_tb.sv
+!i122 38
+L0 3 73
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2023.3;77
+r1
+!s85 0
+31
+R44
+!s107 C:/Users/fengh/Downloads/lab4 (1)/lab4quiz_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/fengh/Downloads/lab4 (1)/lab4quiz_tb.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R8
+Erow_addr_gen
+Z47 w1772503329
+R11
+R12
+R13
+!i122 275
+R14
+Z48 8E:/Digital_Design/lab-5-PETERFEE/src/part3/row_addr_gen.vhd
+Z49 FE:/Digital_Design/lab-5-PETERFEE/src/part3/row_addr_gen.vhd
+l0
+R17
+VCVV=;:h3]k7C?hQ>4CWQ91
+!s100 3@a[Y6n[_9fOfjhlm26o82
+R18
+32
+R19
+!i10b 1
+R36
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Digital_Design/lab-5-PETERFEE/src/part3/row_addr_gen.vhd|
+Z51 !s107 E:/Digital_Design/lab-5-PETERFEE/src/part3/row_addr_gen.vhd|
+!i113 0
+R23
+R24
+Abhv
+R11
+R12
+R13
+Z52 DEx4 work 12 row_addr_gen 0 22 CVV=;:h3]k7C?hQ>4CWQ91
+!i122 275
+l23
+L21 32
+VNkF[WbAKaBAXjRf^C=el12
+!s100 ^Kc`;X>Ff289jfIzXVdI83
+R18
+32
+R19
+!i10b 1
+R36
+R50
+R51
+!i113 0
+R23
+R24
+Evga
+Z53 w1772504900
+Z54 DPx4 work 7 vga_lib 0 22 1ZaCQ_4C;T>Q1;PgTFabz1
+R11
+R12
+R13
+!i122 277
+R14
+Z55 8E:/Digital_Design/lab-5-PETERFEE/src/part4/vga.vhd
+Z56 FE:/Digital_Design/lab-5-PETERFEE/src/part4/vga.vhd
+l0
+L12 1
+VJ2LL=>75?aDJILZ_2[c0]2
+!s100 ma8B8h2gb]RmlP7:N^>;O2
+R18
+32
+R19
+!i10b 1
+R36
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Digital_Design/lab-5-PETERFEE/src/part4/vga.vhd|
+Z58 !s107 E:/Digital_Design/lab-5-PETERFEE/src/part4/vga.vhd|
+!i113 0
+R23
+R24
+Astr
+Z59 DPx9 altera_mf 20 altera_mf_components 0 22 =PHfMfICJ5LRSkJ3B_[dW3
+Z60 DEx4 work 7 vga_rom 0 22 b0o8@aZcdjDQ9kkn5J;W01
+R39
+R52
+Z61 DEx4 work 12 vga_sync_gen 0 22 B]MDn1jJIfmHze:EAOz1D0
+R54
+R11
+R12
+R13
+Z62 DEx4 work 3 vga 0 22 J2LL=>75?aDJILZ_2[c0]2
+!i122 277
+l50
+L21 152
+V3c]z`hl>odlKa[LQz`9ie2
+!s100 GJ3E7ShNl]BPj[h50QdZk0
+R18
+32
+R19
+!i10b 1
+R36
+R57
+R58
+!i113 0
+R23
+R24
+Pvga_lib
+R12
+R13
+!i122 240
+w1771802935
+R14
+8E:/Digital_Design/lab-5-PETERFEE/src/vga_lib.vhd
+FE:/Digital_Design/lab-5-PETERFEE/src/vga_lib.vhd
+l0
+L7 62
+V1ZaCQ_4C;T>Q1;PgTFabz1
+!s100 VZ1UZF]iDDJR5]G6jFkXW1
+R18
+32
+Z63 !s110 1772465066
+!i10b 1
+Z64 !s108 1772465066.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Digital_Design/lab-5-PETERFEE/src/vga_lib.vhd|
+!s107 E:/Digital_Design/lab-5-PETERFEE/src/vga_lib.vhd|
+!i113 0
+R23
+R24
+Evga_rom
+Z65 w1772306408
+R59
+R12
+R13
+!i122 276
+R14
+Z66 8E:/Digital_Design/lab-5-PETERFEE/src/part3/vga_rom.vhd
+Z67 FE:/Digital_Design/lab-5-PETERFEE/src/part3/vga_rom.vhd
+l0
+L43 1
+Vb0o8@aZcdjDQ9kkn5J;W01
+!s100 YZXnO4o1<M5_0kD9k?5YK2
+R18
+32
+R19
+!i10b 1
+R36
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Digital_Design/lab-5-PETERFEE/src/part3/vga_rom.vhd|
+Z69 !s107 E:/Digital_Design/lab-5-PETERFEE/src/part3/vga_rom.vhd|
+!i113 0
+R23
+R24
+Asyn
+R59
+R12
+R13
+R60
+!i122 276
+l57
+L53 33
+V;5Y;_M38U99KRi`<TC@BO1
+!s100 FAYGh^m6P9]>hlYlm5NXM1
+R18
+32
+R19
+!i10b 1
+R36
+R68
+R69
+!i113 0
+R23
+R24
+Evga_sync_gen
+Z70 w1772309152
+R54
+R11
+R12
+R13
+!i122 273
+R14
+Z71 8E:/Digital_Design/lab-5-PETERFEE/src/part2/VGA_sync_gen.vhd
+Z72 FE:/Digital_Design/lab-5-PETERFEE/src/part2/VGA_sync_gen.vhd
+l0
+Z73 L11 1
+VB]MDn1jJIfmHze:EAOz1D0
+!s100 ;N_0Ng^7^5_5>XQP`YWAL2
+R18
+32
+R19
+!i10b 1
+R36
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Digital_Design/lab-5-PETERFEE/src/part2/VGA_sync_gen.vhd|
+Z75 !s107 E:/Digital_Design/lab-5-PETERFEE/src/part2/VGA_sync_gen.vhd|
+!i113 0
+R23
+R24
+Abhv
+R54
+R11
+R12
+R13
+R61
+!i122 273
+l38
+L23 72
+Vj^U:O;HEOHB?6Y5cU>l0i0
+!s100 z][P9;g]lT64_P:]:J?n50
+R18
+32
+R19
+!i10b 1
+R36
+R74
+R75
+!i113 0
+R23
+R24
+Evga_sync_gen_tb
+Z76 w1771948043
+R54
+R11
+R12
+R13
+!i122 23
+R26
+Z77 8E:/Digital Design/lab-5-PETERFEE/src/part2/VGA_sync_gen_tb.vhd
+Z78 FE:/Digital Design/lab-5-PETERFEE/src/part2/VGA_sync_gen_tb.vhd
+l0
+L6 1
+VNEKiYm`cMajD7eA9oOAHe0
+!s100 VU@5oB@NZ0SQj@0`aNJIF0
+R18
+32
+Z79 !s110 1771948384
+!i10b 1
+Z80 !s108 1771948384.000000
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Digital Design/lab-5-PETERFEE/src/part2/VGA_sync_gen_tb.vhd|
+Z82 !s107 E:/Digital Design/lab-5-PETERFEE/src/part2/VGA_sync_gen_tb.vhd|
+!i113 0
+R23
+R24
+Atb
+R54
+R11
+R12
+R13
+DEx4 work 15 vga_sync_gen_tb 0 22 NEKiYm`cMajD7eA9oOAHe0
+!i122 23
+l32
+L9 130
+VzhL8KC5:PkH^T^;7ZG3jn2
+!s100 Zfm[R3l[R;bD_O]G07W[?0
+R18
+32
+R79
+!i10b 1
+R80
+R81
+R82
+!i113 0
+R23
+R24
+Evga_tb
+Z83 w1772243745
+Z84 DPx4 ieee 16 std_logic_textio 0 22 C8j>g0lzF^EAA]5<S6PY32
+R59
+R54
+R11
+R12
+R13
+!i122 241
+R14
+Z85 8E:/Digital_Design/lab-5-PETERFEE/src/part4/vga_final_tb.vhd
+Z86 FE:/Digital_Design/lab-5-PETERFEE/src/part4/vga_final_tb.vhd
+l0
+R73
+V[YU;h]4:lNJU[jMKjb7_d1
+!s100 D9TMH6am0AiZPEGUY9]0G0
+R18
+32
+R63
+!i10b 1
+R64
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|E:/Digital_Design/lab-5-PETERFEE/src/part4/vga_final_tb.vhd|
+Z88 !s107 E:/Digital_Design/lab-5-PETERFEE/src/part4/vga_final_tb.vhd|
+!i113 0
+R23
+R24
+Atb
+R84
+R59
+R54
+R11
+R12
+R13
+DEx4 work 6 vga_tb 0 22 [YU;h]4:lNJU[jMKjb7_d1
+!i122 241
+l50
+L14 350
+V0n35@j@7Ik_PXg2MWHP6_0
+!s100 d6H=SEdQYOUH`8IZ]9V051
+R18
+32
+R63
+!i10b 1
+R64
+R87
+R88
+!i113 0
+R23
+R24

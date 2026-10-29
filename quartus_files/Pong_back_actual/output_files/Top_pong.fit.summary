@@ -1,0 +1,18 @@
+Fitter Status : Successful - Fri Mar 20 15:42:08 2026
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : Top_pong
+Top-level Entity Name : pong_top
+Family : MAX 10
+Device : 10M50DAF484C6GES
+Timing Models : Preliminary
+Total logic elements : 876 / 49,760 ( 2 % )
+    Total combinational functions : 873 / 49,760 ( 2 % )
+    Dedicated logic registers : 99 / 49,760 ( < 1 % )
+Total registers : 99
+Total pins : 27 / 360 ( 8 % )
+Total virtual pins : 0
+Total memory bits : 294,912 / 1,677,312 ( 18 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )

@@ -1,0 +1,57 @@
+E:/Digital_Design/lab-6-PETERFEE/src/Part3/gcd_tb.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-6-PETERFEE/src/Part3/gcd_tb.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module gcd_tb
+
+Top level modules:
+	gcd_tb
+
+} {} {}} E:/Digital_Design/lab-6-PETERFEE/src/Part3/datapath.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-6-PETERFEE/src/Part3/datapath.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} E:/Digital_Design/lab-6-PETERFEE/src/Part3/comparator.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-6-PETERFEE/src/Part3/comparator.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}} E:/Digital_Design/lab-6-PETERFEE/src/Part3/gcd_top.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-6-PETERFEE/src/Part3/gcd_top.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module GCD_Calculator
+
+Top level modules:
+	GCD_Calculator
+
+} {} {}} E:/Digital_Design/lab-6-PETERFEE/src/Part3/controller.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-6-PETERFEE/src/Part3/controller.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module gcd_fsm
+
+Top level modules:
+	gcd_fsm
+
+} {} {}} E:/Digital_Design/lab-6-PETERFEE/src/Part3/mux2x1.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-6-PETERFEE/src/Part3/mux2x1.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module mux2x1
+
+Top level modules:
+	mux2x1
+
+} {} {}} E:/Digital_Design/lab-6-PETERFEE/src/Part3/subtractor.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-6-PETERFEE/src/Part3/subtractor.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module subtractor
+
+Top level modules:
+	subtractor
+
+} {} {}} E:/Digital_Design/lab-6-PETERFEE/src/Part3/reg.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-6-PETERFEE/src/Part3/reg.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module regg
+
+Top level modules:
+	regg
+
+} {} {}}

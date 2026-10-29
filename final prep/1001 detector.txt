@@ -1,0 +1,52 @@
+module detector (input logic in, 
+		 input logic reset,
+	         input logic clk,
+		 output logic done
+	);
+
+typedef enum logic[2:0] {start, one, zero, zero2, one2}state_t;
+
+state_t state, next; 
+
+always_ff @(posedge clk or posedge 
+reset) begin
+ 	if (reset) state <= start;	
+	else state <= next; 
+end 
+
+always_comb begin 
+	next <= state;
+	done <= 0; 
+
+	case(state) 
+	
+		start: begin 
+			if (in) next = one; 
+			else next = start;
+ 			end 
+		one: begin	
+			if (in) next = one; 
+			else next = zero; 	
+		     end 
+		zero: begin 
+			if (in) next = one; 
+			else next = zero2;
+			end 
+		zero2:
+			begin 
+			if (in) next = one2;
+			else next = start;
+
+			end 
+
+		one2: begin 
+			done = 1;			
+		      end 
+
+	endcase 
+
+
+
+
+
+endmodule

@@ -1,0 +1,33 @@
+login as: fengh
+fengh@linux.ece.ufl.edu's password:
+Creating home directory for fengh.
+ _ _
+| (_)_ __  _   ___  __       ___  ___ ___
+| | | '_ \| | | \ \/ /      / _ \/ __/ _ \
+| | | | | | |_| |>  <   _  |  __/ (_|  __/
+|_|_|_| |_|\__,_/_/\_\ (_)  \___|\___\___|
+
+[fengh@ece-lnx-08 ~]$ vncserver
+
+You will require a password to access your desktops.
+
+Password:
+Verify:
+Would you like to enter a view-only password (y/n)? n
+A view-only password is not used
+xauth:  file /home/UFAD/fengh/.Xauthority does not exist
+
+New 'ece-lnx-08:45 (fengh)' desktop is ece-lnx-08:45
+
+Creating default startup script /home/UFAD/fengh/.vnc/xstartup
+Creating default config /home/UFAD/fengh/.vnc/config
+Starting applications specified in /home/UFAD/fengh/.vnc/xstartup
+Log file is /home/UFAD/fengh/.vnc/ece-lnx-08:45.log
+
+[fengh@ece-lnx-08 ~]$ vncserver
+You are already running a VNC session for fengh user. Maximum session is limited to 1 per user.
+Run 'vncserver -list' to list the current session
+
+Please contact your System Administrator for more details.
+[fengh@ece-lnx-08 ~]$ ^C
+[fengh@ece-lnx-08 ~]$

@@ -1,0 +1,22 @@
+E:/Digital_Design/lab-8-PETERFEE/src/part3/adder_tree2.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part3/adder_tree2.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module adder_tree2
+
+Top level modules:
+	adder_tree2
+
+} {} {}} E:/Digital_Design/lab-8-PETERFEE/src/part3/tb_adder_tree.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part3/tb_adder_tree.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module tb_adder_tree
+
+Top level modules:
+	tb_adder_tree
+
+} {} {}} E:/Digital_Design/lab-8-PETERFEE/src/part3/adder_tree1.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part3/adder_tree1.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module adder_tree1
+
+Top level modules:
+	adder_tree1
+
+} {} {}}

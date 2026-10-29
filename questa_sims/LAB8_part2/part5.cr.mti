@@ -1,0 +1,22 @@
+E:/Digital_Design/lab-8-PETERFEE/src/part5/tb_counter.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part5/tb_counter.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module tb_counter
+
+Top level modules:
+	tb_counter
+
+} {} {}} E:/Digital_Design/lab-8-PETERFEE/src/part5/counter1.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part5/counter1.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module counter1
+
+Top level modules:
+	counter1
+
+} {} {}} E:/Digital_Design/lab-8-PETERFEE/src/part5/counter2.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part5/counter2.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module counter2
+
+Top level modules:
+	counter2
+
+} {} {}}

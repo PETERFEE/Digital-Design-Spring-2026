@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'vga_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : -1.528
+TNS   : -22.041
+
+Type  : Slow 1200mV 85C Model Setup 'MAX10_CLK1_50'
+Slack : -0.758
+TNS   : -0.758
+
+Type  : Slow 1200mV 85C Model Hold 'vga_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : 0.407
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MAX10_CLK1_50'
+Slack : 0.667
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : -3.000
+TNS   : -4.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'vga_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : -1.222
+TNS   : -24.440
+
+Type  : Slow 1200mV 0C Model Setup 'vga_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : -1.299
+TNS   : -18.292
+
+Type  : Slow 1200mV 0C Model Setup 'MAX10_CLK1_50'
+Slack : -0.542
+TNS   : -0.542
+
+Type  : Slow 1200mV 0C Model Hold 'vga_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : 0.365
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MAX10_CLK1_50'
+Slack : 0.515
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : -3.000
+TNS   : -4.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'vga_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : -1.222
+TNS   : -24.440
+
+Type  : Fast 1200mV 0C Model Setup 'MAX10_CLK1_50'
+Slack : -0.217
+TNS   : -0.217
+
+Type  : Fast 1200mV 0C Model Setup 'vga_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : -0.208
+TNS   : -1.752
+
+Type  : Fast 1200mV 0C Model Hold 'vga_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : 0.183
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MAX10_CLK1_50'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : -3.000
+TNS   : -4.143
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'vga_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : -1.000
+TNS   : -20.000
+
+------------------------------------------------------------

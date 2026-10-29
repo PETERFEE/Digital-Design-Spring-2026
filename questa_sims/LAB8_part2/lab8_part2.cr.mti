@@ -1,0 +1,22 @@
+E:/Digital_Design/lab-8-PETERFEE/src/part2/tb_register.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part2/tb_register.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module tb_register
+
+Top level modules:
+	tb_register
+
+} {} {}} E:/Digital_Design/lab-8-PETERFEE/src/part2/register1.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part2/register1.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module register1
+
+Top level modules:
+	register1
+
+} {} {}} E:/Digital_Design/lab-8-PETERFEE/src/part2/register2.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part2/register2.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module register2
+
+Top level modules:
+	register2
+
+} {} {}}

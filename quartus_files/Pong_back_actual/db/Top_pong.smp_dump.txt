@@ -1,0 +1,7 @@
+
+State Machine - |pong_top|game_fsm:fsm_inst|current_state
+Name current_state.STATE_P2_WIN current_state.STATE_P1_WIN current_state.STATE_PLAY current_state.STATE_START 
+current_state.STATE_START 0 0 0 0 
+current_state.STATE_PLAY 0 0 1 1 
+current_state.STATE_P1_WIN 0 1 0 1 
+current_state.STATE_P2_WIN 1 0 0 1 

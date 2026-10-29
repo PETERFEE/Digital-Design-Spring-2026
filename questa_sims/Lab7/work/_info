@@ -1,0 +1,348 @@
+m255
+K4
+z2
+Z0 !s12c _opt2
+Z1 !s99 nomlopt
+R0
+R1
+Z2 !s12c _opt
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s12c _opt1
+R1
+R2
+R1
+R2
+R1
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z3 dE:/Digital_Design/questa_sims/lab6_GCD
+T_opt
+!s110 1775952820
+V>U:6=eezMYizJ>2IV>]X03
+Z4 04 10 4 work tb_one_hot fast 0
+=1-00d8618a9905-69dae3b3-397-fd0
+R1
+Z5 !s12b OEM100
+Z6 !s124 OEM10U2 
+Z7 o-quiet -auto_acc_if_foreign -work work +acc
+Z8 tCvgOpt 0
+n@_opt
+Z9 OL;O;2023.3;77
+R3
+T_opt1
+!s110 1774398267
+VRa_?6j099;gE;19O3`22O1
+04 8 4 work tb_part2 fast 0
+=1-00d8618a9905-69c32b3a-300-95dc
+R1
+R5
+!s124 OEM10U7 
+R7
+R8
+n@_opt1
+R9
+R3
+T_opt2
+!s110 1775952987
+V3YPQ3SQiL;VBd4HToo7ZN3
+R4
+=1-00d8618a9905-69dae45b-187-99bc
+R1
+R5
+R6
+o-quiet -auto_acc_if_foreign -work work
+R8
+n@_opt2
+R9
+valu
+2E:/Digital_Design/lab-7-PETERFEE/src/Part1/alu.sv
+Z10 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z11 !s110 1774398249
+!i10b 1
+!s100 =]8hk2BKdlV1[460b@z2_1
+IGIioOcmUX3;PPbO^Fe]zh1
+S1
+Z12 dE:/Digital_Design/questa_sims/Lab7
+w1773609326
+8E:/Digital_Design/lab-7-PETERFEE/src/Part1/alu.sv
+FE:/Digital_Design/lab-7-PETERFEE/src/Part1/alu.sv
+!i122 34
+Z13 L0 1 19
+Z14 VDg1SIo80bB@j0V0VzS_@n1
+Z15 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z16 !s108 1774398249.000000
+!s107 E:/Digital_Design/lab-7-PETERFEE/src/Part1/alu.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/Digital_Design/lab-7-PETERFEE/src/Part1/alu.sv|
+!i113 0
+Z17 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R8
+vbasic_tb
+2E:/Digital_Design/lab-7-PETERFEE/src/Part1/basic_tb.sv
+R10
+!s110 1774397984
+!i10b 1
+!s100 fL01lB]37@Nd3HCdJ>_721
+IQn0PdRLHOU?>o@<gADdMb3
+S1
+R12
+w1773609142
+8E:/Digital_Design/lab-7-PETERFEE/src/Part1/basic_tb.sv
+FE:/Digital_Design/lab-7-PETERFEE/src/Part1/basic_tb.sv
+!i122 28
+L0 1 137
+R14
+R15
+r1
+!s85 0
+31
+!s108 1774397984.000000
+!s107 E:/Digital_Design/lab-7-PETERFEE/src/Part1/basic_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/Digital_Design/lab-7-PETERFEE/src/Part1/basic_tb.sv|
+!i113 0
+R17
+R8
+vcontroller
+2E:/Digital_Design/lab-7-PETERFEE/src/Part1/controller.sv
+R10
+R11
+!i10b 1
+!s100 ng3VZeH2^=YHhFbOWe?;H3
+IPmGU54LgdLgBM0E5j[>VC1
+S1
+R12
+w1773609060
+8E:/Digital_Design/lab-7-PETERFEE/src/Part1/controller.sv
+FE:/Digital_Design/lab-7-PETERFEE/src/Part1/controller.sv
+!i122 35
+L0 1 86
+R14
+R15
+r1
+!s85 0
+31
+R16
+!s107 E:/Digital_Design/lab-7-PETERFEE/src/Part1/controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/Digital_Design/lab-7-PETERFEE/src/Part1/controller.sv|
+!i113 0
+R17
+R8
+vdatapath
+2E:/Digital_Design/lab-7-PETERFEE/src/Part1/datapath.sv
+R10
+Z18 !s110 1774398250
+!i10b 1
+!s100 N[>^]g2]jFL3<:<a3M>Mz0
+INKoQPD_R<PUnB]]5KS70A0
+S1
+R12
+Z19 w1773602463
+8E:/Digital_Design/lab-7-PETERFEE/src/Part1/datapath.sv
+FE:/Digital_Design/lab-7-PETERFEE/src/Part1/datapath.sv
+!i122 36
+L0 1 73
+R14
+R15
+r1
+!s85 0
+31
+R16
+!s107 E:/Digital_Design/lab-7-PETERFEE/src/Part1/datapath.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/Digital_Design/lab-7-PETERFEE/src/Part1/datapath.sv|
+!i113 0
+R17
+R8
+vgcd
+2E:\Digital_Design\lab-7-PETERFEE\src\Part1\gcd.sv
+R10
+R18
+!i10b 1
+!s100 SIGnZgJkL>:D[b@h94`X`3
+IhF0nSV?@W_a>1a7J3TbbL0
+S1
+R12
+w1774120326
+8E:\Digital_Design\lab-7-PETERFEE\src\Part1\gcd.sv
+FE:\Digital_Design\lab-7-PETERFEE\src\Part1\gcd.sv
+!i122 37
+L0 1 66
+R14
+R15
+r1
+!s85 0
+31
+Z20 !s108 1774398250.000000
+!s107 E:\Digital_Design\lab-7-PETERFEE\src\Part1\gcd.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:\Digital_Design\lab-7-PETERFEE\src\Part1\gcd.sv|
+!i113 0
+R17
+R8
+vmemory
+2E:/Digital_Design/lab-7-PETERFEE/src/Part1/memory.sv
+R10
+R18
+!i10b 1
+!s100 VKI^T?d8D;[NBT;L2@O6]0
+IhVlh=BE0K7Ki]<Lm_CmC]0
+S1
+R12
+R19
+8E:/Digital_Design/lab-7-PETERFEE/src/Part1/memory.sv
+FE:/Digital_Design/lab-7-PETERFEE/src/Part1/memory.sv
+!i122 38
+L0 1 27
+R14
+R15
+r1
+!s85 0
+31
+R20
+!s107 E:/Digital_Design/lab-7-PETERFEE/src/Part1/memory.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/Digital_Design/lab-7-PETERFEE/src/Part1/memory.sv|
+!i113 0
+R17
+R8
+vone_hot1
+2E:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot1.sv
+R10
+Z21 !s110 1775952971
+!i10b 1
+!s100 KKG23f`j70;4Vg0ENQb;J3
+I;`jMd;5jn0n<WX@5XK7[c0
+S1
+R12
+Z22 w1775870314
+8E:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot1.sv
+FE:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot1.sv
+!i122 65
+R13
+R14
+R15
+r1
+!s85 0
+31
+Z23 !s108 1775952971.000000
+!s107 E:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot1.sv|
+!i113 0
+R17
+R8
+vone_hot2
+2E:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot2.sv
+R10
+R21
+!i10b 1
+!s100 B@GneNER1kc:3?;3cb=Fc3
+If<hc9>PLoFXLbY:QUb2^k0
+S1
+R12
+R22
+8E:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot2.sv
+FE:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot2.sv
+!i122 66
+L0 1 10
+R14
+R15
+r1
+!s85 0
+31
+R23
+!s107 E:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot2.sv|
+!i113 0
+R17
+R8
+vtb_one_hot
+2E:/Digital_Design/lab-8-PETERFEE/src/part1/tb_one_hot.sv
+R10
+!s110 1775952972
+!i10b 1
+!s100 1][fdZ:nS[@PSn77XEi@S2
+I@@=5=P_Pd;d<e=[DRB_Qf2
+S1
+R12
+w1775952963
+8E:/Digital_Design/lab-8-PETERFEE/src/part1/tb_one_hot.sv
+FE:/Digital_Design/lab-8-PETERFEE/src/part1/tb_one_hot.sv
+!i122 67
+L0 1 81
+R14
+R15
+r1
+!s85 0
+31
+R23
+!s107 E:/Digital_Design/lab-8-PETERFEE/src/part1/tb_one_hot.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/Digital_Design/lab-8-PETERFEE/src/part1/tb_one_hot.sv|
+!i113 0
+R17
+R8
+vtb_part2
+2E:/Digital_Design/lab-7-PETERFEE/src/Part2/tb_part2.sv
+R10
+R18
+!i10b 1
+!s100 II=FLR2c9aGe65P=;?Mic0
+I58WIBD`:IOel^lzKfofYF0
+S1
+R12
+w1773673681
+8E:/Digital_Design/lab-7-PETERFEE/src/Part2/tb_part2.sv
+FE:/Digital_Design/lab-7-PETERFEE/src/Part2/tb_part2.sv
+!i122 40
+L0 1 177
+R14
+R15
+r1
+!s85 0
+31
+R20
+!s107 E:/Digital_Design/lab-7-PETERFEE/src/Part2/tb_part2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/Digital_Design/lab-7-PETERFEE/src/Part2/tb_part2.sv|
+!i113 0
+R17
+R8
+vtop_level
+2E:/Digital_Design/lab-7-PETERFEE/src/Part1/top_level.sv
+R10
+R18
+!i10b 1
+!s100 k`b0o;zZNG6?96:olQEC81
+IhZLNY0ROj?`^T`5Ljm@MR2
+S1
+R12
+R19
+8E:/Digital_Design/lab-7-PETERFEE/src/Part1/top_level.sv
+FE:/Digital_Design/lab-7-PETERFEE/src/Part1/top_level.sv
+!i122 39
+L0 1 78
+R14
+R15
+r1
+!s85 0
+31
+R20
+!s107 E:/Digital_Design/lab-7-PETERFEE/src/Part1/top_level.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/Digital_Design/lab-7-PETERFEE/src/Part1/top_level.sv|
+!i113 0
+R17
+R8

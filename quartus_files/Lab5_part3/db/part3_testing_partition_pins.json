@@ -1,0 +1,89 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Col_Addr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Col_Addr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Col_Addr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Col_Addr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Col_Addr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Col_Addr[5]",
+					"strict" : false
+				},
+				{
+					"name" : "col_enable",
+					"strict" : false
+				},
+				{
+					"name" : "Hcount[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Hcount[0]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Hcount[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Hcount[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Hcount[9]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[2]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Hcount[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Hcount[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Hcount[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Hcount[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Hcount[6]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

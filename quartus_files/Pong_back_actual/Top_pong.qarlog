@@ -1,0 +1,28 @@
+Quartus Prime Archive log --	E:/Digital_Design/quartus_files/Pong_back_actual/Top_pong.qarlog
+
+Archive:	E:/Digital_Design/quartus_files/Pong_back_actual/Top_pong.qar
+Date:		Fri Mar 20 15:57:21 2026
+Quartus Prime		22.1std.1 Build 917 02/14/2023 SC Lite Edition
+
+	=========== Files Selected: ===========
+E:/Digital_Design/pong-extra-credit-PETERFEE/src/ball_controller.sv
+E:/Digital_Design/pong-extra-credit-PETERFEE/src/bitmaps/score_rom.sv
+E:/Digital_Design/pong-extra-credit-PETERFEE/src/bitmaps/text_rom.sv
+E:/Digital_Design/pong-extra-credit-PETERFEE/src/clk_div.sv
+E:/Digital_Design/pong-extra-credit-PETERFEE/src/game_fsm.sv
+E:/Digital_Design/pong-extra-credit-PETERFEE/src/paddle_controller.sv
+E:/Digital_Design/pong-extra-credit-PETERFEE/src/pong_top.sv
+E:/Digital_Design/pong-extra-credit-PETERFEE/src/score_tracker.sv
+E:/Digital_Design/pong-extra-credit-PETERFEE/src/vga_sync_gen.sv
+E:/Digital_Design/pong-extra-credit-PETERFEE/src/video_renderer.sv
+E:/Digital_Design/quartus_files/Pong_back_actual/Top_pong.qpf
+E:/Digital_Design/quartus_files/Pong_back_actual/Top_pong.qsf
+E:/Digital_Design/quartus_files/Pong_back_actual/Top_pong.tcl
+E:/digital_design/pong-extra-credit-peterfee/src/bitmaps/game_over_p1.mif
+E:/digital_design/pong-extra-credit-peterfee/src/bitmaps/game_over_p2.mif
+E:/digital_design/pong-extra-credit-peterfee/src/bitmaps/start_text.mif
+c:/intelfpga_lite/22.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 17 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

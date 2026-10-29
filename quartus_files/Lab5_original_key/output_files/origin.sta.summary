@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -2.706
+TNS   : -36.263
+
+Type  : Slow 1200mV 85C Model Setup 'VGA_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : -1.959
+TNS   : -25.940
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.343
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'VGA_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : 0.433
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -44.792
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'VGA_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : -1.222
+TNS   : -24.440
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -2.347
+TNS   : -31.711
+
+Type  : Slow 1200mV 0C Model Setup 'VGA_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : -1.685
+TNS   : -21.722
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'VGA_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : 0.386
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -41.984
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'VGA_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : -1.222
+TNS   : -24.440
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -0.846
+TNS   : -8.099
+
+Type  : Fast 1200mV 0C Model Setup 'VGA_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : -0.439
+TNS   : -3.731
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.155
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'VGA_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : 0.195
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -24.646
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'VGA_sync_gen:sync_gen_inst|clk_div:pixel_clk_div|pixel_clk'
+Slack : -1.000
+TNS   : -20.000
+
+------------------------------------------------------------

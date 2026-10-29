@@ -1,0 +1,103 @@
+Archive Project report for Top_pong
+Fri Mar 20 15:57:21 2026
+Quartus Prime Version 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2023  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Fri Mar 20 15:57:21 2026 ;
+; Revision Name          ; Top_pong                              ;
+; Top-level Entity Name  ; pong_top                              ;
+; Family                 ; MAX 10                                ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Warning: Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory E:/Digital_Design/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'E:/Digital_Design/quartus_files/Pong_back_actual/Top_pong.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'Top_pong.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/22.1std/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4848 megabytes
+    Info: Processing ended: Fri Mar 20 15:57:21 2026
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++-------------------------------------------------------------------------+
+; Files Archived                                                          ;
++-------------------------------------------------------------------------+
+; File Name                                                               ;
++-------------------------------------------------------------------------+
+; ../../pong-extra-credit-PETERFEE/src/ball_controller.sv                 ;
+; ../../pong-extra-credit-PETERFEE/src/bitmaps/score_rom.sv               ;
+; ../../pong-extra-credit-PETERFEE/src/bitmaps/text_rom.sv                ;
+; ../../pong-extra-credit-PETERFEE/src/clk_div.sv                         ;
+; ../../pong-extra-credit-PETERFEE/src/game_fsm.sv                        ;
+; ../../pong-extra-credit-PETERFEE/src/paddle_controller.sv               ;
+; ../../pong-extra-credit-PETERFEE/src/pong_top.sv                        ;
+; ../../pong-extra-credit-PETERFEE/src/score_tracker.sv                   ;
+; ../../pong-extra-credit-PETERFEE/src/vga_sync_gen.sv                    ;
+; ../../pong-extra-credit-PETERFEE/src/video_renderer.sv                  ;
+; /digital_design/pong-extra-credit-peterfee/src/bitmaps/game_over_p1.mif ;
+; /digital_design/pong-extra-credit-peterfee/src/bitmaps/game_over_p2.mif ;
+; /digital_design/pong-extra-credit-peterfee/src/bitmaps/start_text.mif   ;
+; c:/intelfpga_lite/22.1std/quartus/bin64/assignment_defaults.qdf         ;
+; E:/Digital_Design/pong-extra-credit-PETERFEE/src/ball_controller.sv     ;
+; E:/Digital_Design/pong-extra-credit-PETERFEE/src/bitmaps/score_rom.sv   ;
+; E:/Digital_Design/pong-extra-credit-PETERFEE/src/bitmaps/text_rom.sv    ;
+; E:/Digital_Design/pong-extra-credit-PETERFEE/src/clk_div.sv             ;
+; E:/Digital_Design/pong-extra-credit-PETERFEE/src/game_fsm.sv            ;
+; E:/Digital_Design/pong-extra-credit-PETERFEE/src/paddle_controller.sv   ;
+; E:/Digital_Design/pong-extra-credit-PETERFEE/src/pong_top.sv            ;
+; E:/Digital_Design/pong-extra-credit-PETERFEE/src/score_tracker.sv       ;
+; E:/Digital_Design/pong-extra-credit-PETERFEE/src/vga_sync_gen.sv        ;
+; E:/Digital_Design/pong-extra-credit-PETERFEE/src/video_renderer.sv      ;
+; Top_pong.qpf                                                            ;
+; Top_pong.qsf                                                            ;
+; Top_pong.tcl                                                            ;
++-------------------------------------------------------------------------+
+
+

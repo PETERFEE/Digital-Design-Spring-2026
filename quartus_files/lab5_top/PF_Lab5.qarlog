@@ -1,0 +1,24 @@
+Quartus Prime Archive log --	E:/Digital_Design/quartus_files/lab5_top/PF_Lab5.qarlog
+
+Archive:	E:/Digital_Design/quartus_files/lab5_top/PF_Lab5.qar
+Date:		Sat Feb 28 15:09:03 2026
+Quartus Prime		22.1std.1 Build 917 02/14/2023 SC Lite Edition
+
+	=========== Files Selected: ===========
+E:/Digital_Design/lab-5-PETERFEE/src/part1/clk_div.vhd
+E:/Digital_Design/lab-5-PETERFEE/src/part2/VGA_sync_gen.vhd
+E:/Digital_Design/lab-5-PETERFEE/src/part3/col_addr_gen.vhd
+E:/Digital_Design/lab-5-PETERFEE/src/part3/row_addr_gen.vhd
+E:/Digital_Design/lab-5-PETERFEE/src/part3/vga_rom.cmp
+E:/Digital_Design/lab-5-PETERFEE/src/part3/vga_rom.qip
+E:/Digital_Design/lab-5-PETERFEE/src/part3/vga_rom.vhd
+E:/Digital_Design/lab-5-PETERFEE/src/part4/vga.vhd
+E:/Digital_Design/lab-5-PETERFEE/src/vga_lib.vhd
+E:/Digital_Design/quartus_files/lab5_top/top.qpf
+E:/Digital_Design/quartus_files/lab5_top/top.qsf
+E:/digital_design/lab-5-peterfee/src/part3/brom.mif
+c:/intelfpga_lite/22.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 13 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

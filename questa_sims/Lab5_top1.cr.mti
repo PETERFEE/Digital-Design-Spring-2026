@@ -1,0 +1,82 @@
+E:/Digital_Design/lab-5-PETERFEE/src/vga_lib.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/Digital_Design/lab-5-PETERFEE/src/vga_lib.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package VGA_LIB
+
+} {} {}} E:/Digital_Design/lab-5-PETERFEE/src/part3/row_addr_gen.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/Digital_Design/lab-5-PETERFEE/src/part3/row_addr_gen.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity row_addr_gen
+-- Compiling architecture bhv of row_addr_gen
+
+} {} {}} E:/Digital_Design/lab-5-PETERFEE/src/part3/vga_rom.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/Digital_Design/lab-5-PETERFEE/src/part3/vga_rom.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity vga_rom
+-- Compiling architecture SYN of vga_rom
+
+} {} {}} E:/Digital_Design/lab-5-PETERFEE/src/part4/vga.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/Digital_Design/lab-5-PETERFEE/src/part4/vga.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Compiling entity vga
+-- Compiling architecture str of vga
+-- Loading entity VGA_sync_gen
+-- Loading entity row_addr_gen
+-- Loading entity col_addr_gen
+-- Loading package altera_mf_components
+-- Loading entity vga_rom
+
+} {} {}} E:/Digital_Design/lab-5-PETERFEE/src/part4/vga_final_tb.vhd {2 {vcom -work work -2002 -explicit -vopt -stats=none E:/Digital_Design/lab-5-PETERFEE/src/part4/vga_final_tb.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Loading package altera_mf_components
+-- Loading package std_logic_textio
+-- Compiling entity vga_tb
+-- Compiling architecture TB of vga_tb
+** Warning: E:/Digital_Design/lab-5-PETERFEE/src/part4/vga_final_tb.vhd(329): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+} {} {}} E:/Digital_Design/lab-5-PETERFEE/src/part3/col_addr_gen.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/Digital_Design/lab-5-PETERFEE/src/part3/col_addr_gen.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity col_addr_gen
+-- Compiling architecture bhv of col_addr_gen
+
+} {} {}} E:/Digital_Design/lab-5-PETERFEE/src/part1/clk_div.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/Digital_Design/lab-5-PETERFEE/src/part1/clk_div.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity clk_div
+-- Compiling architecture bhv of clk_div
+
+} {} {}} E:/Digital_Design/lab-5-PETERFEE/src/part2/VGA_sync_gen.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none E:/Digital_Design/lab-5-PETERFEE/src/part2/VGA_sync_gen.vhd
+Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package VGA_LIB
+-- Compiling entity VGA_sync_gen
+-- Compiling architecture bhv of VGA_sync_gen
+
+} {} {}}

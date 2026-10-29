@@ -1,0 +1,22 @@
+E:/Digital_Design/lab-8-PETERFEE/src/part1/tb_one_hot.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part1/tb_one_hot.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module tb_one_hot
+
+Top level modules:
+	tb_one_hot
+
+} {} {}} E:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot1.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot1.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module one_hot1
+
+Top level modules:
+	one_hot1
+
+} {} {}} E:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot2.sv {1 {vlog -work work -vopt -sv -stats=none E:/Digital_Design/lab-8-PETERFEE/src/part1/one_hot2.sv
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module one_hot2
+
+Top level modules:
+	one_hot2
+
+} {} {}}
